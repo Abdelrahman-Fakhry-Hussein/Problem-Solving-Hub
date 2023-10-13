@@ -1,0 +1,18 @@
+Link of problem is:
+https://www.codechef.com/problems/FIBXOR01?tab=statement
+  -----------------------------------------------------------------------------------------------
+
+Test Cases:
+
+input
+4
+86 77 15
+93 35 86
+92 49 21
+62 27 90
+
+Sample output
+86
+126
+92
+62

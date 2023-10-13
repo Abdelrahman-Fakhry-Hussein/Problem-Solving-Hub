@@ -1,0 +1,19 @@
+Link of problem is:
+https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=2307
+
+  -----------------------------------------------------------------------------------------------
+
+Test Cases:
+
+input
+2
+11
+47
+1234567892
+0
+
+Sample Output
+2
+2
+2
+2

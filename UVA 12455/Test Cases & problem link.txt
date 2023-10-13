@@ -1,0 +1,25 @@
+Link of problem is:
+https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=3886
+
+  -----------------------------------------------------------------------------------------------
+
+Test Cases:
+4
+25
+4
+10 12 5 7
+925
+10
+45 15 120 500 235 58 6 12 175 70
+120
+5
+25 25 25 25 25
+0
+2
+13 567
+
+Sample Output
+NO
+YES
+NO
+YES
