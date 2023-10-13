@@ -1,0 +1,17 @@
+Link of problem is:
+https://codeforces.com/problemset/problem/121/A
+
+  -----------------------------------------------------------------------------------------------
+
+Test Cases:
+
+input 
+2 7
+output 
+33
+
+
+input 
+7 7
+output 
+7
