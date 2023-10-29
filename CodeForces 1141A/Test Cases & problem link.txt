@@ -1,0 +1,22 @@
+Link of problem is:
+https://codeforces.com/problemset/problem/1141/A
+  -----------------------------------------------------------------------------------------------
+
+Test Cases:
+
+input
+120 51840
+output
+7
+
+
+input
+42 42
+output
+0
+
+
+input
+48 72
+output
+-1

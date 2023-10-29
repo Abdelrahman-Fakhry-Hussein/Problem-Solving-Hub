@@ -1,0 +1,26 @@
+Link of problem is:
+https://onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=1393
+	 -----------------------------------------------------------------------------------------------
+
+Test Cases:
+
+input
+2
+6 5
+PST#T
+BTJAS
+TYCVM
+YEHOF
+XIBKU
+N@RJB
+5 4
+JA#X
+JVBN
+XOHD
+DQEM
+T@IY
+
+
+output
+forth forth right right forth forth forth
+right forth forth left forth forth right

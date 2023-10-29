@@ -1,0 +1,18 @@
+Link of problem is:
+https://codeforces.com/problemset/problem/559/B
+  -----------------------------------------------------------------------------------------------
+
+Test Cases:
+
+input
+aaba
+abaa
+output
+YES
+
+
+input
+aabb
+abab
+output
+NO
