@@ -1,0 +1,22 @@
+Link of problem is:
+https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=3104	 -----------------------------------------------------------------------------------------------
+
+Test Cases:
+
+Sample Input
+
+2
+4
+x...
+..x.
+@.@.
+....
+2
+..
+x.
+
+
+Sample Output
+
+Case 1: 2
+Case 2: 1
