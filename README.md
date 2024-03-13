@@ -1,2 +1,2 @@
 # Problem_Solving-
-solutions of some problems 
+Solutions of some problems 
